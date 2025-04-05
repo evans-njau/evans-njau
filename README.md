@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Evans Njau Mathenge (aka Skibbydop) 👨‍💻
+# 👋 Hello World! I'm Evans Njau Mathenge (aka Evansuh) 👨‍💻
 
 Welcome to my GitHub! I'm a passionate **Computer Engineering student** at **The Technical University of Kenya**, building cool things with **Flutter**, **PHP**, **JavaScript**, **Python**, and **Kotlin**. I love turning ideas into real-world applications that make life easier and more fun!
 
@@ -7,14 +7,14 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** at **The
 ## 💡 About Me
 
 - 🎓 BTech in Computer Technology
-- 💻 Web & Mobile Developer
-- 🔧 Currently building: **UNITYFETE** - A Community-Based Event Management Platform  
-- 🎵 Music App Dev with Kotlin & Mixpanel integration
+- 💻 Web App Developer
+- 🔧 Currently building: **Ndengu** - A Community-Based burial support Platform  
+- 👨‍👩‍👦‍👦 ** UNIFETE *** - A community-Based web application which organises events
 - 🐣 A proud poultry farmer & tech enthusiast
-- 🌱 Currently learning: **Dart, Python Tkinter, Kotlin & NumPy**
+- 🌱 Currently learning: **Python ML, Data Science,  AI **
 - 🌍 I love projects that bring people together and solve real community problems
 - 🎯 Goal: Master full-stack dev and build scalable, impactful platforms
-- ⚡ Fun fact: I like dancing, singing, motivating others, and advertising houses 😄
+- ⚡ Fun fact: I like fishing, cooking, motivating others, and advertising tech gadgets 😄
 
 ---
 
@@ -50,9 +50,9 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** at **The
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/evans-njau) *(example link, replace with yours)*
-- 🐦 [Twitter](https://twitter.com/skibbydop) *(optional)*
-- 📧 Email: evansmathenge.dev@gmail.com *(optional)*
+- *
+- 🐦 [Twitter](https://twitter.com/skibbydop)
+- 📧 Email: evansmathenge.dev@gmail.com 
 - 🌐 [My Portfolio](https://yourusername.github.io/portfolio-site/)  
 
 ---
