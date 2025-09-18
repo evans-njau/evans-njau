@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate **Computer Engineering student** at **The
 - 🎓 BTech in Computer Technology
 - 💻 Web App Developer
 - 🔧 Currently building: **Ndengu** - A Community-Based burial support Platform  
-- 👨‍👩‍👦‍👦 ** UNIFETE *** - A community-Based web application which organises events
+- 👨‍👩‍👦‍👦 UNIFETE - A community-Based web application which organises events
 - 🐣 A proud poultry farmer & tech enthusiast
 - 🌱 Currently learning: **Python ML, Data Science,  AI **
 - 🌍 I love projects that bring people together and solve real community problems
